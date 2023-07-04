@@ -4,7 +4,7 @@ layout: home
 ---
 
 ---
-title: Michael Anthony's Documentation
+Michael Anthony's Documentation
 ---
 
 Welcome to Michael Anthony's, located in Long Island, NY!
