@@ -1,6 +1,7 @@
 title: Michael Anthonys Pizzeria and Restaurant
 description: Our wonderful restaurant in Long Island, NY!
 theme: just-the-docs
+color_scheme: dark
 
 url: https://just-the-docs.github.io
 
@@ -10,5 +11,3 @@ aux_links:
 search_enabled: true
 
 search.heading_level: 2
-
-color_scheme: dark
