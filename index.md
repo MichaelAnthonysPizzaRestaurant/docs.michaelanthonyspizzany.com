@@ -10,9 +10,9 @@ nav_order: 1
 
 ### Table of Contents
 
-1. [Home](https://docs.calsearching.in)
+1. [Home](https://docs.michaelanthonyspizzany.com)
 
-2. [About Us](https://docs.calsearching.in/aboutus.html)
+2. [About Us](https://docs.michaelanthonyspizzany.com/aboutus.html)
 
 ---
 
