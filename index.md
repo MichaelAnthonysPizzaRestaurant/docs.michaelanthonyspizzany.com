@@ -7,6 +7,11 @@ layout: home
 Michael Anthony's Documentation
 ---
 
+## Table of Contents
+
+[I'm an inline-style link](https://docs.calsearching.in/home.html)
+[I'm an inline-style link](https://docs.calsearching.in/web.html)
+
 Welcome to Michael Anthony's, located in **Long Island, NY!**
 
 
