@@ -35,3 +35,5 @@ If you want to maintain your docs in the `docs` directory of an existing project
 title: Our Restaurant
 layout: default
 ---
+
+Hello this is a test
