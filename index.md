@@ -12,7 +12,7 @@ Michael Anthony's Documentation
 1. [I'm an inline-style link](https://docs.calsearching.in)
 
 2. [I'm an inline-style link](https://docs.calsearching.in/web.html)
----
+-----
 
 Welcome to Michael Anthony's, located in **Long Island, NY!**
 
