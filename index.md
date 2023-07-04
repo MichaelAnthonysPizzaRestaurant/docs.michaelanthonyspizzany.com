@@ -4,10 +4,10 @@ layout: home
 ---
 
 ---
-Michael Anthony's Documentation
+# Michael Anthony's Documentation
 ---
 
-## Table of Contents
+#### Table of Contents
 
 1. [I'm an inline-style link](https://docs.calsearching.in)
 
