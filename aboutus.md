@@ -27,4 +27,16 @@ Pasta Night is on Sundays and Tuesdays, Monday, and Wednesday is Parmigiana Nigh
 
 # Delivery Locations
 
-Yes
+We deliver to:
+
+1. Selden
+2. Centereach
+3. Lake Grove
+4. Port Jefferson
+5. South Setauket
+6. St. James
+7. Holtsville
+8. Ronkonkoma
+9. Stonybrook
+
+If you're at one of these places, get our delicious food!
