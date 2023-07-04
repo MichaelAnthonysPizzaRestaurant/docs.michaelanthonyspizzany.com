@@ -11,7 +11,7 @@ layout: home
 
 1. [Home](https://docs.calsearching.in)
 
-2. [I'm an inline-style link](https://docs.calsearching.in/web.html)
+2. [About Us](https://docs.calsearching.in/aboutus.html)
 
 ---
 
@@ -21,4 +21,4 @@ Welcome to Michael Anthony's, located in **Long Island, NY!**
 Head to our official main site!
 
 
-[Link button](http://michaelanthonyspizzany.com/){: .btn .btn-blue .mr-2 }
+[Website](http://michaelanthonyspizzany.com/){: .btn .btn-blue .mr-2 }
