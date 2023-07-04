@@ -9,7 +9,7 @@ layout: home
 
 ### Table of Contents
 
-1. [I'm an inline-style link](https://docs.calsearching.in)
+1. [Home](https://docs.calsearching.in)
 
 2. [I'm an inline-style link](https://docs.calsearching.in/web.html)
 
