@@ -2,7 +2,7 @@
 layout: page
 title: Our History
 nav_order: 5
-has_children: true
+has_children: tru
 ---
 
 # Our Restaurant's History
