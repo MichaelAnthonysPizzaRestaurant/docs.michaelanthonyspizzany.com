@@ -17,7 +17,7 @@ nav_order: 3
 
 # Our Story
 
-Michael Anthony’s is known for great pizza and also for having many great gluten-free options among are appetizers, pasta dishes, entrees and yes we have dessert. Dine-In for additional options on the menu that you can only receive when you dine in our dining room.
+Michael Anthony’s is known for great pizza and also for having many great gluten-free options amongst our appetizers, pasta dishes, entrees and yes we have dessert. Dine-In for additional options on the menu that you can only receive when you dine in our dining room.
 
 We provide over 20 dishes of pasta and entrees able to be made Gluten Free with the use of imported pasta, it tastes so great you can not tell the difference. Dine-In and receive as a bonus Gluten Free Bread!
 
