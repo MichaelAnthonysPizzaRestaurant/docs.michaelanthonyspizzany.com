@@ -14,6 +14,10 @@ nav_order: 1
 
 2. [About Us](https://docs.michaelanthonyspizzany.com/aboutus.html)
 
+3. [Our Location](https://docs.michaelanthonyspizzany.com/location.html)
+
+4. [Our History](https://docs.michaelanthonyspizzany.com/history/history.html)
+
 ---
 
 Welcome to Michael Anthony's, located in **Long Island, NY!**
